@@ -73,7 +73,6 @@ PRODUCT_PACKAGES += \
     libmediaadaptor \
     libpixeldisplaymanager_jni \
     VZWAPNLib \
-    AICorePrebuilt \
     AppDirectedSMSService \
     CarrierSettings_signed_45.0.591154042 \
     CarrierWifi \
